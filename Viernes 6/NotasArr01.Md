@@ -1,14 +1,14 @@
 # Arreglos
-[Introduccion](##Introduccion)
-[Unidimensionales](##Unidimensionales)
-[Sintaxis](###Sintaxis)
+1. [Introduccion](##Introduccion)
+2. [Unidimensionales](##Unidimensionales)
+3. [Sintaxis](###Sintaxis)
 
 
 ## Introduccion 
 
 En la clase de hoy revisamos el tema de arreglos durante la primera hora enfocandonos en los arreglos unidimensionales y durante la segunda parte de la clase nos enfocamos en los arreglos bidimensionales
 
-**Arreglo:**Conjunto de datos del mismo tipo 
+**Arreglo:** Conjunto de datos del mismo tipo 
 
 Los arreglos por si solos se pueden considerar como una orden para el sistema de guardar una cierta cantidad de espacios de cierto tamaño y todos de un mismo tipo de dato 
 
@@ -20,7 +20,7 @@ La sintaxis de los arreglos unidimensionales cuenta con tres elementos, el tipo 
 
 ```c
 //tipo_de_dato etiqueta [tamaño]
-int tablero1 [24]
+int tablero1 [24];
 ```
 
 
